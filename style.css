@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+  button{
+    width: 150px;
+    height: 100px;
+}
+
+input{
+    height: 100px;
+    width: 500px;
+    font-size: 30px;
+}
+body {
+    background-color: #273c75;
+  }
+
+
+
+  li {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    list-style: none;
+    font-size: 30px;
+  }
